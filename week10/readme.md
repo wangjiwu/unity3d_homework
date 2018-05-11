@@ -1,4 +1,4 @@
-# week10  作业说明
+﻿# week10  作业说明
 
  ## 1. 第一人称视角
  
@@ -20,7 +20,14 @@
  
  
  
+ ---
  
+ 
+ ## 视频地址
+
+https://pan.baidu.com/s/1jvYrCVCJ6Hed_GF6wTGZ-Q  
+
+密码 1xzu
  
 
 
